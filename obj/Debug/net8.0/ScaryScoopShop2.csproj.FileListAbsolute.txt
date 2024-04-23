@@ -12,3 +12,4 @@ C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\ne
 C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.pdb
 C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.genruntimeconfig.cache
 C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ref\ScaryScoopShop2.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.sourcelink.json

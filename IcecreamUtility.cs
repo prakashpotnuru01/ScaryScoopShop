@@ -42,7 +42,7 @@ namespace ScaryScoopShop2
             {
                 Console.WriteLine(e.Name+" "+e.Price);
             }
-            return Program.IceList;
+            return SortedList;
         }
 
 
