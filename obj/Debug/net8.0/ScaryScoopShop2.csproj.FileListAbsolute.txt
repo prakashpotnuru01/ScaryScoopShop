@@ -1,0 +1,14 @@
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\bin\Debug\net8.0\ScaryScoopShop2.exe
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\bin\Debug\net8.0\ScaryScoopShop2.deps.json
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\bin\Debug\net8.0\ScaryScoopShop2.runtimeconfig.json
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\bin\Debug\net8.0\ScaryScoopShop2.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\bin\Debug\net8.0\ScaryScoopShop2.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.AssemblyInfoInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.AssemblyInfo.cs
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.csproj.CoreCompileInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\refint\ScaryScoopShop2.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ScaryScoopShop2.genruntimeconfig.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\MockTest\ScaryScoopShop2\obj\Debug\net8.0\ref\ScaryScoopShop2.dll
