@@ -9,7 +9,7 @@ namespace ScaryScoopShop2
         {
 
             IcecreamUtility iu = new IcecreamUtility();
-
+            Console.WriteLine("Branch testing in git");
             bool temp = true;
             while (temp)
             {
